@@ -86,6 +86,7 @@ int main() {
     return 0;
 }
 
+//ps -o pid,ppid,stat,cmd -C p2_zombie
 
 
 
